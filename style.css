@@ -1,0 +1,68 @@
+.image1{
+    width: 25%;
+    heigth: 25%;
+    margin-left: 5%;
+}
+.image2{
+    width: 27%;
+    heigth: 50%;
+    margin-left: 10%;
+}
+.image3{
+    width: 25%;
+    heigth: 25%;
+    margin-left: 7%;
+
+}
+.image{
+    margin: 0% 0% 0% 25%;
+    width: 50%;
+    height: 50%;
+
+
+}
+body{
+    background :  ;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    
+}
+hr{
+   
+}
+.last{
+    position: relative;
+    bottom: 25px;
+}
+.div1{
+    background: #F7DED0;
+    position: relative;
+    bottom: 25px;;
+}
+.bg{
+    background: #FEECE2;
+    position: relative;
+    bottom: 35px;
+}
+.div2{
+    background: #F7DED0;
+    position : relative;
+    bottom: 50px;
+}
+.div3{
+    background: #F7DED0;
+    position : relative;
+    bottom: 60px;
+
+}
+.last{
+    background: #E2BFB3;
+    position : relative;
+    bottom: 75px;
+}
